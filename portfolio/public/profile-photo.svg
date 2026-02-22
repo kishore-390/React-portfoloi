@@ -1,0 +1,7 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" rx="200" fill="#DCE2EC"/>
+  <circle cx="200" cy="148" r="78" fill="#B8C2D3"/>
+  <path d="M82 337C93 272 143 228 200 228C257 228 307 272 318 337" fill="#B8C2D3"/>
+  <circle cx="200" cy="200" r="196" stroke="#6F7E96" stroke-width="8"/>
+  <text x="50%" y="378" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#2F3A4F">KISHORE</text>
+</svg>
